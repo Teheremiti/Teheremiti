@@ -1,6 +1,6 @@
 <p align="center">
 	<img src="https://github.com/Teheremiti/Teheremiti/blob/main/iamteheremiti.png">
-  
+  	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dina&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Student;Coding+Enthusiast;Gymrat+%26+Adrenaline+Junk;1%25+Better+Everyday;Potato" alt="Typing SVG" /></a>
 </p>
 
 <!--
