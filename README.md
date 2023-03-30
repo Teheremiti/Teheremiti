@@ -1,4 +1,4 @@
-### Hi there 👋
+![Teheremiti](https://github.com/Teheremiti/Teheremiti/iamteheremiti.png)
 
 <!--
 **Teheremiti/Teheremiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
