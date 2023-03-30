@@ -1,4 +1,7 @@
-![Teheremiti](https://github.com/Teheremiti/Teheremiti/iamteheremiti.png)
+<p align="center">
+	<img src="https://github.com/Teheremiti/Teheremiti/blob/main/iamteheremiti.png">
+  
+</p>
 
 <!--
 **Teheremiti/Teheremiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
