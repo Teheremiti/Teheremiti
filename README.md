@@ -1,7 +1,7 @@
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/120781178/229059243-22cc711c-9ddc-46eb-a18f-97797e20b6ef.png#gh-dark-mode-only" width="60%">
-		<img src="https://user-images.githubusercontent.com/120781178/229058795-e6e247a2-ce74-4f12-94dc-94302b821450.png" width="60%">
+		<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/120781178/229059243-22cc711c-9ddc-46eb-a18f-97797e20b6ef.png#gh-dark-mode-only">
+		<img src="https://user-images.githubusercontent.com/120781178/229058795-e6e247a2-ce74-4f12-94dc-94302b821450.png">
 	</picture>
 </p>
 <p align="center">
